@@ -1,0 +1,26 @@
+body{background-color:rgb(226, 224, 204);}
+
+*{
+    font-family: 'Gabarito', sans-serif;
+}
+h3{color:blanchedalmond;text-align: center; font-weight: bold;font-size: xx-large;}
+h1{color:blanchedalmond; margin: 10px;padding: 10px; text-align: center;font-size: 60px;}
+h2{color:blanchedalmond;font-size: larger;}
+p{color:rgb(31, 30, 29); text-align: justify;font-size: larger;}
+.Tarjeta{background-color: rgb(139, 110, 167);}
+#titulo-discos{color: rgb(228, 198, 153);font-size: x-large;}
+#titulo-tay{color: blue;}
+#titulo-giras{color: rgb(230, 149, 230);font-size: x-large;}
+#titulo-reco{color: rgb(163, 212, 78);font-size: x-large;}
+#titulo-seguir{color: #8C2486;font-size: x-large;}
+#titulo-recomendacion{text-align: center;}
+#formulario{text-align: center;}
+#gustaron{text-align: center;}
+#discos{font-size: x-large;}
+#giras{font-size: x-large;}
+#canciones{font-size: x-large;}
+#linkdentro{text-align: center;}
+
+img{width: 270px;height: 300px; border:dashed ; border-color: black;border-radius: 10px; display: block;margin:auto;}
+ul li{list-style:disc;}
+ul li a{text-decoration: none;}
